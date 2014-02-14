@@ -1,0 +1,8 @@
+name    'gabrielbull-unoconv'
+version '1.0.0'
+source 'https://github.com/gabrielbull/puppet-module-unoconv'
+author 'gabrielbull'
+license 'MIT'
+summary 'Setup PHP unoconv'
+description 'Setup PHP unoconv'
+project_page 'https://github.com/gabrielbull/puppet-module-unoconv'
